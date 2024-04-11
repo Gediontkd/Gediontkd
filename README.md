@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Courses etc**
 
-- 👨‍💻 All of my projects are available at [https://gedion-daniel.netlify.app/](https://gedion-daniel.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gedion-daniel.netlify.app/](https://gediontkd.github.io/)
 
 - 💬 Ask me about **react, node, MERN**
 
