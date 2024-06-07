@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/gedion_gt" target="blank"><img src="https://img.shields.io/twitter/follow/gedion_gt?logo=twitter&style=for-the-badge" alt="gedion_gt" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks, Courses etc**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://gedion-daniel.netlify.app/](https://gediontkd.github.io/)
 
