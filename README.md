@@ -5,11 +5,9 @@
 
 👨‍💻 All of my projects are available at [my portfolio](https://gediondaniel.dev/)
 
-💬 Ask me about React, Node.js, MERN
-
 📫 How to reach me gediondaniel321@gmail.com
 
-🤝 I actively contribute to open source projects
+🤝 I actively contribute to open-source projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
