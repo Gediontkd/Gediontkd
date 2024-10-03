@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋, I'm Gedion Daniel</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hello 👋, I'm Gedion Daniel</h1>
+<h3 align="center">A Passionate Full Stack Developer with a Focus on Delivering High-Impact Solutions</h3>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-🌱 I’m currently learning AWS
 
-👨‍💻 All of my projects are available at [my portfolio](https://gediondaniel.dev/)
+I'm an experienced Full Stack Developer with a solid background in building scalable web applications, specializing in both front-end and back-end technologies. I thrive on solving complex problems and am currently expanding my expertise in **AWS** to leverage cloud services for enhanced application performance.
 
-📫 How to reach me gediondaniel321@gmail.com
+- 🌱 **Currently Exploring:** AWS, Cloud-Native Solutions, Microservices
+- 👨‍💻 **Portfolio & Projects:** Check out my [Portfolio](https://gediondaniel.dev) for a showcase of my work
+- 📝 **Read My Blog:** [blog.gediondaniel.dev](https://blog.gediondaniel.dev) - Sharing insights on web development, cloud computing, and open-source
+- 🤝 **Open Source Contributor:** Actively contributing to various open-source projects to give back to the community
+- 📫 **Reach Me:** gediondaniel321@gmail.com
 
-🤝 I actively contribute to open-source projects
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://twitter.com/gedion_gt" target="blank">Twitter</a> |
-  <a href="https://linkedin.com/in/gediontkd" target="blank">LinkedIn</a>
+  <a href="https://linkedin.com/in/gediontkd" target="blank">LinkedIn</a> |
+  <a href="https://twitter.com/gedion_gt" target="blank">Twitter</a> | 
+  <a href="https://www.instagram.com/gediondev/" target="blank">Instagram</a> 
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-  Angular, AngularJS, Babel, Blender, Bootstrap, C, CSS3, Express, Figma, Firebase, Git, HTML5, Illustrator, Java, JavaScript, Linux, MongoDB, Microsoft SQL Server, MySQL, Node.js, Oracle, Photoshop, PHP, Postman, Python, React, React Native, Ruby, Sass, Sketch, Spring, Svelte, Tailwind CSS, TypeScript, Webpack, Adobe XD
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
+  <!-- Add more icons for the technologies you want to showcase -->
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gediontkd&show_icons=true&locale=en&layout=compact" alt="gediontkd" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gediontkd&show_icons=true&locale=en" alt="gediontkd" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gediontkd&" alt="gediontkd" /></p>
+
+### 🏆 GitHub Trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=gediontkd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
