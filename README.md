@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gedion Daniel</h1>
 <h3 align="center">A Passionate Full Stack Developer with a Focus on Delivering High-Impact Solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 I'm an experienced Full Stack Developer with a solid background in building scalable web applications, specializing in both front-end and back-end technologies. I thrive on solving complex problems and am currently expanding my expertise in **AWS** to leverage cloud services for enhanced application performance.
 
