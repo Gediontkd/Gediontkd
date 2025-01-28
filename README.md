@@ -6,7 +6,7 @@
 I'm an experienced Full Stack Developer with a solid background in building scalable web applications, specializing in both front-end and back-end technologies. I thrive on solving complex problems and am currently expanding my expertise in **AWS** to leverage cloud services for enhanced application performance.
 
 - 🌱 **Currently Exploring:** AWS, Cloud-Native Solutions, Microservices
-- 👨‍💻 **Portfolio & Projects:** Check out my [Portfolio](https://gediondaniel.dev) for a showcase of my work
+- 👨‍💻 **Portfolio & Projects:** Check out my [gediondaniel.dev](https://gediondaniel.dev) for a showcase of my work
 - 📝 **Read My Blog:** [blog.gediondaniel.dev](https://blog.gediondaniel.dev) - Sharing insights on web development, cloud computing, and open-source
 - 🤝 **Open Source Contributor:** Actively contributing to various open-source projects to give back to the community
 - 📫 **Reach Me:** gediondaniel321@gmail.com
