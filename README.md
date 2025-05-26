@@ -28,6 +28,20 @@ I'm an experienced Full Stack Developer with a strong background in building sca
         <br />
         <sub><b>AWS Certified Solutions Architect – Associate</b></sub>
       </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/fd3a9d39-0e2e-4b08-9d9f-cff75dea069d/public_url" target="_blank">
+          <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associat" width="200" height="200"/>
+        </a>
+        <br />
+        <sub><b>AWS Certified Developer – Associate</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/1f60e5db-f4b1-43bf-bdc9-c49118c2b670/public_url" target="_blank">
+          <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="200" height="200"/>
+        </a>
+        <br />
+        <sub><b>AWS Certified Cloud Practitioner</b></sub>
+      </td>
       <!-- Add more certifications here as you earn them -->
     </tr>
   </table>
