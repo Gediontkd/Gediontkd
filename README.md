@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Gedion Daniel</h1>
 <h3 align="center">AWS Certified Solution Architect & Passionate Full Stack Developer Focused on High-Impact Solutions</h3>
-
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 I'm an experienced Full Stack Developer with a strong background in building scalable web applications, specializing in both front-end and back-end technologies. As an AWS Certified Solution Architect, I leverage cloud services to enhance application performance and scalability.
@@ -17,8 +16,27 @@ I'm an experienced Full Stack Developer with a strong background in building sca
   <a href="https://www.instagram.com/gediondev/" target="blank">Instagram</a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🏅 AWS Certifications
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gediontkd/gediontkd/main/certificates/aws-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="200" height="200"/>
+        <br />
+        <sub><b>AWS Certified Solutions Architect – Associate</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gediontkd/gediontkd/main/certificates/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="200" height="200"/>
+        <br />
+        <sub><b>AWS Certified Cloud Practitioner</b></sub>
+      </td>
+    </tr>
+    <!-- Add more rows as needed for additional certifications -->
+  </table>
+</div>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
@@ -29,7 +47,6 @@ I'm an experienced Full Stack Developer with a strong background in building sca
 </p>
 
 <h3 align="left">AWS Skills:</h3>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazon-ec2&logoColor=white" alt="Amazon EC2"/>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?logo=amazon-s3&logoColor=white" alt="Amazon S3"/>
