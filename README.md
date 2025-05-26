@@ -1,13 +1,25 @@
-<h1 align="center">Hello 👋, I'm Gedion Daniel</h1>
-<h3 align="center">AWS Certified Solution Architect & Passionate Full Stack Developer Focused on High-Impact Solutions</h3>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
+<h1 align="center">👋 Hello, I'm Gedion Daniel</h1>
+<h3 align="center">🚀 AWS Certified Solutions Architect & Community Builder</h3>
+<h4 align="center">Building the Future with Cloud-Native Solutions & Full-Stack Excellence</h4>
 
-I'm an experienced Full Stack Developer with a strong background in building scalable web applications, specializing in both front-end and back-end technologies. As an AWS Certified Solution Architect, I leverage cloud services to enhance application performance and scalability.
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🌱 **Currently Exploring:** AWS, Cloud-Native Solutions, Microservices
-- 👨‍💻 **Portfolio & Projects:** Check out my [gediondaniel.dev](https://gediondaniel.dev) for a showcase of my work
-- 📝 **Read My Blog:** [blog.gediondaniel.dev](https://blog.gediondaniel.dev) - Sharing insights on web development, cloud computing, and open-source
-- 📫 **Reach Me:** gediondaniel321@gmail.com
+### 🎯 About Me
+
+I'm a passionate **Full-Stack Developer** and **AWS Solutions Architect** with a proven track record of designing and implementing scalable, high-performance applications. As an **AWS Community Builder**, I bridge the gap between cutting-edge cloud technologies and real-world business solutions.
+
+**What drives me:**
+- 🏗️ **Architecting scalable systems** that grow with business needs
+- ☁️ **Cloud-first mindset** leveraging AWS services for optimal performance
+- 📚 **Knowledge sharing** through technical writing and community engagement
+- 🔧 **Problem-solving** complex challenges with elegant, maintainable code
+
+### 🌟 Current Focus
+- 🔭 **Exploring:** Advanced AWS services, Microservices Architecture, and AI/ML integration
+- 🌱 **Learning:** Kubernetes, DevOps best practices, and emerging cloud-native technologies
+- 👨‍💻 **Building:** Check out my portfolio at [gediondaniel.dev](https://gediondaniel.dev)
+- ✍️ **Writing:** Technical insights at [blog.gediondaniel.dev](https://blog.gediondaniel.dev)
+- 📬 **Connect:** gediondaniel321@gmail.com
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -16,33 +28,43 @@ I'm an experienced Full Stack Developer with a strong background in building sca
   <a href="https://www.instagram.com/gediondev/" target="blank">Instagram</a> 
 </p>
 
+## ☁️ AWS Community Builder
+<div align="center">
+  <img src="https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2rAUL1l1vVSLdPs1SPN21WxNmE6%2Fawscb.webp%3FimgSize%3D1024x536&w=2048&q=75" alt="AWS Community Builder Logo" width="300"/>
+  <br /><br />
+<!--   <img src="https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Community Builder"/> -->
+<!--   <br /><br /> -->
+  <sub><i>Selected member of the AWS Community Builders program, contributing to the global AWS community through content creation, mentoring, and knowledge sharing</i></sub>
+</div>
+
+<br />
+
 ## 🏅 AWS Certifications
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="250">
         <a href="https://www.credly.com/badges/ad90700c-7390-4707-bb03-95050324f9d4/public_url" target="_blank">
-          <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="200" height="200"/>
+          <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="180" height="180"/>
         </a>
-        <br />
+        <br /><br />
         <sub><b>AWS Certified Solutions Architect – Associate</b></sub>
       </td>
-      <td align="center">
+      <td align="center" width="250">
         <a href="https://www.credly.com/badges/fd3a9d39-0e2e-4b08-9d9f-cff75dea069d/public_url" target="_blank">
-          <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associat" width="200" height="200"/>
+          <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="180" height="180"/>
         </a>
-        <br />
+        <br /><br />
         <sub><b>AWS Certified Developer – Associate</b></sub>
       </td>
-      <td align="center">
+      <td align="center" width="250">
         <a href="https://www.credly.com/badges/1f60e5db-f4b1-43bf-bdc9-c49118c2b670/public_url" target="_blank">
-          <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="200" height="200"/>
+          <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="180" height="180"/>
         </a>
-        <br />
+        <br /><br />
         <sub><b>AWS Certified Cloud Practitioner</b></sub>
       </td>
-      <!-- Add more certifications here as you earn them -->
     </tr>
   </table>
 </div>
@@ -66,6 +88,35 @@ I'm an experienced Full Stack Developer with a strong background in building sca
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?logo=amazonrds&logoColor=white" alt="AWS RDS"/>
   <img src="https://img.shields.io/badge/AWS VPC-232F3E?logo=amazonaws&logoColor=white" alt="AWS VPC"/>
 </p>
+
+## 🤝 Community Contributions
+
+As an AWS Community Builder, I actively contribute to the global AWS community through various channels:
+
+- 📝 **Technical Writing:** Publishing in-depth articles on AWS best practices, serverless architectures, and cloud-native solutions on [Hashnode](https://hashnode.com/@GedionTkd) and [Dev.to](https://dev.to/gediondev)
+- 🎤 **Speaking & Workshops:** Regular speaker at AWS User Groups, tech meetups, and webinars sharing knowledge on cloud architecture and full-stack development
+- 👥 **Mentoring & Support:** Active mentor in AWS community forums, Discord servers, and helping developers transition to cloud technologies
+- 📚 **Open Source:** Contributing to AWS-related open source projects and maintaining tools that help developers build better cloud applications
+- 🌐 **Community Building:** Organizing local tech meetups and AWS study groups to foster learning and networking
+
+## 📖 Latest AWS & Tech Content
+
+Here are my recent technical contributions and insights:
+
+### 📝 Featured Articles
+
+- 🔗 **[How to Install and Use Amazon Q for Developers in Your IDE](https://dev.to/aws-builders/how-to-install-and-use-amazon-q-for-developers-in-your-ide-4e3h)** - Complete setup guide for Amazon Q Developer integration
+- 🔗 **[Building APIs with AWS Lambda: My Journey from Traditional Servers to Serverless](https://blog.gediondaniel.dev/building-apis-with-aws-lambda-my-journey-from-traditional-servers-to-serverless)** - Personal experience transitioning to serverless architecture
+- 🔗 **[Amazon SQS: Producing Messages for Reliable Asynchronous Processing](https://blog.gediondaniel.dev/amazon-sqs-producing-messages-for-reliable-asynchronous-processing)** - Deep dive into message queuing patterns
+- 🔗 **[Understanding AWS Lambda Pricing: A Simple Guide](https://blog.gediondaniel.dev/understanding-aws-lambda-pricing-a-simple-guide)** - Cost optimization strategies for serverless applications
+- 🔗 **[Understanding AWS Sticky Sessions: A Real-World Success Story](https://blog.gediondaniel.dev/understanding-aws-sticky-sessions-a-real-world-success-story)** - Load balancing best practices with practical examples
+
+### 📊 Content Statistics
+![Dev.to Badge](https://img.shields.io/badge/Dev.to-AWS%20Builders-0A0A0A?style=flat&logo=dev.to&logoColor=white)
+![Blog Posts](https://img.shields.io/badge/Blog%20Posts-15+-FF6B6B?style=flat&logo=hashnode&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-Technical%20Writer-12100E?style=flat&logo=medium&logoColor=white)
+
+*Visit my [blog](https://blog.gediondaniel.dev) for more in-depth tutorials and AWS insights*
 
 ### 🏆 GitHub Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=gediontkd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
