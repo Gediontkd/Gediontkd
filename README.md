@@ -22,17 +22,14 @@ I'm an experienced Full Stack Developer with a strong background in building sca
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/gediontkd/gediontkd/main/certificates/aws-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="200" height="200"/>
+        <a href="https://www.credly.com/badges/ad90700c-7390-4707-bb03-95050324f9d4/public_url" target="_blank">
+          <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="200" height="200"/>
+        </a>
         <br />
         <sub><b>AWS Certified Solutions Architect – Associate</b></sub>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/gediontkd/gediontkd/main/certificates/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="200" height="200"/>
-        <br />
-        <sub><b>AWS Certified Cloud Practitioner</b></sub>
-      </td>
+      <!-- Add more certifications here as you earn them -->
     </tr>
-    <!-- Add more rows as needed for additional certifications -->
   </table>
 </div>
 
