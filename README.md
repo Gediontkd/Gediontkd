@@ -18,7 +18,7 @@ I'm a passionate **Full-Stack Developer** and **AWS Solutions Architect** with a
 - 🔭 **Exploring:** Advanced AWS services, Microservices Architecture, and AI/ML integration
 - 🌱 **Learning:** Kubernetes, DevOps best practices, and emerging cloud-native technologies
 - 👨‍💻 **Building:** Check out my portfolio at [gediondaniel.dev](https://gediondaniel.dev)
-- ✍️ **Writing:** Technical insights at [blog.gediondaniel.dev](https://blog.gediondaniel.dev)
+- ✍️ **Writing:** Technical insights at [dev.to](https://dev.to/gediondev)
 - 📬 **Connect:** gediondaniel321@gmail.com
 
 <h3 align="left">Connect with Me:</h3>
