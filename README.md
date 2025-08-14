@@ -32,11 +32,9 @@ I'm a passionate **Full-Stack Developer** and **AWS Solutions Architect** with a
 <div align="center">
   <img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" alt="AWS Community Builder Logo" width="300"/>
   <br /><br />
-<!--   <img src="https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Community Builder"/> -->
-<!--   <br /><br /> -->
-  <sub style="font-size: 20px;">
-  <i>Selected member of the AWS Community Builders program, contributing to the global AWS community through content creation, mentoring, and knowledge sharing</i>
-</sub>
+  <p style="font-size: 16px; font-style: italic;">
+    Selected member of the AWS Community Builders program, contributing to the global AWS community through content creation, mentoring, and knowledge sharing
+  </p>
 </div>
 
 <br />
