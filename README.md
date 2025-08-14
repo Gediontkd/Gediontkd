@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Gedion Daniel</h1>
-<h3 align="center">🚀 AWS Certified Solutions Architect & Community Builder</h3>
+<h3 align="center">🚀 Cloud Developer and AWS Community Builder</h3>
 <h4 align="center">Building the Future with Cloud-Native Solutions & Full-Stack Excellence</h4>
 
 <img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
@@ -30,11 +30,13 @@ I'm a passionate **Full-Stack Developer** and **AWS Solutions Architect** with a
 
 ## ☁️ AWS Community Builder
 <div align="center">
-  <img src="https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2rAUL1l1vVSLdPs1SPN21WxNmE6%2Fawscb.webp%3FimgSize%3D1024x536&w=2048&q=75" alt="AWS Community Builder Logo" width="300"/>
+  <img src="https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2020/07/23/AWS-CBs-blog-image.png" alt="AWS Community Builder Logo" width="300"/>
   <br /><br />
 <!--   <img src="https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Community Builder"/> -->
 <!--   <br /><br /> -->
-  <sub><i>Selected member of the AWS Community Builders program, contributing to the global AWS community through content creation, mentoring, and knowledge sharing</i></sub>
+  <sub style="font-size: 20px;">
+  <i>Selected member of the AWS Community Builders program, contributing to the global AWS community through content creation, mentoring, and knowledge sharing</i>
+</sub>
 </div>
 
 <br />
