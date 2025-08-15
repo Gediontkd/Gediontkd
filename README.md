@@ -59,6 +59,13 @@ I'm a passionate **Full-Stack Developer** and **AWS Solutions Architect** with a
         <sub><b>AWS Certified Developer – Associate</b></sub>
       </td>
       <td align="center" width="250">
+        <a href="https://www.credly.com/badges/e2793878-9401-46c0-9247-679d542391b2/public_url" target="_blank">
+          <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="180" height="180"/>
+        </a>
+        <br /><br />
+        <sub><b>AWS Certified AI Practitioner</b></sub>
+      </td>
+      <td align="center" width="250">
         <a href="https://www.credly.com/badges/1f60e5db-f4b1-43bf-bdc9-c49118c2b670/public_url" target="_blank">
           <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="180" height="180"/>
         </a>
