@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Gedion Daniel</h1>
-<h3 align="center">🚀 Cloud Engineer and AWS Community Builder</h3>
+<h3 align="center">🚀Backend Developer | Cloud Engineer and AWS Community Builder</h3>
 <h4 align="center">Building the Future with Cloud-Native Solutions & Full-Stack Excellence</h4>
 
 <img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
